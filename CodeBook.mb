@@ -3,3 +3,10 @@ This book describes the variables, the data, and any transformations or work don
 The aim of this project is to demonstrate my ability to collect, work with, and clean a data set. 
 The purpose is to prepare a tidy data that can be used for later analysis.
 
+For each record it is provided:
+Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+Triaxial Angular velocity from the gyroscope.
+A 561-feature vector with time and frequency domain variables.
+Its activity label.
+An identifier of the subject who carried out the experiment.
+
