@@ -7,8 +7,8 @@ The data used for this project is available at the following website: http://arc
 
 Files within this repository:
 
- - run_analysis.R: Script with the R code used to get and clean the dataset.
+ - CodeBook.md: Book that describes the data used in the project.
 
- - CodeBook.md: Book that describes the variables, the data, and any transformations or work that was performed to clean up the data.
+ - run_analysis.R: Script with the R code used to get and clean the dataset.
 
  - tidy_dataset.txt: Text file with the tidy data frame after all the cleaning.
